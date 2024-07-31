@@ -1,0 +1,15 @@
+c:\Users\luisc\Documents\msg\mensajeria\bin\Debug\net8.0\mensajeria.exe
+c:\Users\luisc\Documents\msg\mensajeria\bin\Debug\net8.0\mensajeria.deps.json
+c:\Users\luisc\Documents\msg\mensajeria\bin\Debug\net8.0\mensajeria.runtimeconfig.json
+c:\Users\luisc\Documents\msg\mensajeria\bin\Debug\net8.0\mensajeria.dll
+c:\Users\luisc\Documents\msg\mensajeria\bin\Debug\net8.0\mensajeria.pdb
+c:\Users\luisc\Documents\msg\mensajeria\obj\Debug\net8.0\mensajeria.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\luisc\Documents\msg\mensajeria\obj\Debug\net8.0\mensajeria.AssemblyInfoInputs.cache
+c:\Users\luisc\Documents\msg\mensajeria\obj\Debug\net8.0\mensajeria.AssemblyInfo.cs
+c:\Users\luisc\Documents\msg\mensajeria\obj\Debug\net8.0\mensajeria.csproj.CoreCompileInputs.cache
+c:\Users\luisc\Documents\msg\mensajeria\obj\Debug\net8.0\mensajeria.sourcelink.json
+c:\Users\luisc\Documents\msg\mensajeria\obj\Debug\net8.0\mensajeria.dll
+c:\Users\luisc\Documents\msg\mensajeria\obj\Debug\net8.0\refint\mensajeria.dll
+c:\Users\luisc\Documents\msg\mensajeria\obj\Debug\net8.0\mensajeria.pdb
+c:\Users\luisc\Documents\msg\mensajeria\obj\Debug\net8.0\mensajeria.genruntimeconfig.cache
+c:\Users\luisc\Documents\msg\mensajeria\obj\Debug\net8.0\ref\mensajeria.dll
